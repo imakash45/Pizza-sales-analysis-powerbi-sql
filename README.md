@@ -1,51 +1,141 @@
-## Pizza Sales Analysis (Power BI & SQL)
-
+## 🍕 Pizza Sales Analysis using SQL & Power BI
 ### 📌 Project Overview
 
-    This project analyzes pizza sales data to understand business performance.   
-    I used SQL for data analysis and Power BI to create an interactive dashboard.   
-    
-    The goal of this project is to find sales trends, revenue insights, and top-performing pizzas.   
+This project focuses on analyzing pizza sales data to understand how the business is performing.
+The analysis is done using SQL for querying the data and Power BI for creating an interactive dashboard.
 
-### 🛠 Tools Used
+The main aim of this project is to help a business answer questions like:
 
-    SQL – data cleaning and analysis   
-    Power BI – data visualization and dashboard   
-    Excel / CSV – raw dataset (if applicable)   
+How much total sales and revenue are generated?
 
-### 📊 Key Analysis
+Which pizzas sell the most?
 
-    Total sales and total orders   
-    Revenue by pizza category and size   
-    Top-selling pizzas   
-    Sales trend by date   
-    Average order value   
+Which pizza category and size perform better?
 
-### 🧠 SQL Work
+How sales change over time?
 
-    SQL queries were used to:  
-    Calculate total revenue   
-    Count total orders   
-    Find top-selling pizzas   
-    Analyze category-wise and size-wise sales   
-    SQL file included in the repository:   
-    SQL_pizza_Query1.sql   
+### 🎯 Project Objectives
 
-### 📈 Power BI Dashboard
+Analyze sales data using SQL queries
 
-    The Power BI dashboard shows:   
-    KPI cards (Total Sales, Orders, Revenue)   
-    Bar charts for top pizzas   
-    Sales trend over time   
-    Category-wise and size-wise analysis   
+Identify top-selling pizzas and categories
 
-### 🚀 What I Learned
+Track total revenue, total orders, and average order value
 
-    Writing SQL queries for business analysis   
-    Connecting SQL data to Power BI   
-    Creating interactive dashboards   
-    Understanding sales and customer trends   
+Create an easy-to-understand Power BI dashboard for decision-making
+
+### 🛠 Tools & Technologies Used
+
+SQL – to query and analyze sales data
+
+Power BI – to build interactive dashboards and visualizations
+
+Excel / CSV – as the data source
+
+### 📂 Dataset Description
+
+The dataset contains pizza sales information such as:
+
+Order ID
+
+Order date
+
+Pizza name
+
+Pizza category
+
+Pizza size
+
+Quantity sold
+
+Price
+
+This data is used to calculate sales, revenue, and trends.
+
+### 🧠 SQL Analysis
+
+SQL is used to perform the following analysis:
+
+Calculate total revenue
+
+Count total number of orders
+
+Find top-selling pizzas
+
+Analyze sales by category
+
+Analyze sales by pizza size
+
+Check daily sales trends
+
+All SQL queries are saved in:
+
+SQL_pizza_Query1.sql
+
+### 📊 Power BI Dashboard
+
+The Power BI dashboard is created to visually represent the analysis.
+
+Dashboard Includes:
+
+KPI Cards
+
+Total Revenue
+
+Total Orders
+
+Total Pizzas Sold
+
+Bar Charts demonstrates
+
+Top-selling pizzas
+
+Sales by pizza category
+
+Pie / Donut Charts shows
+
+Sales distribution by pizza size
+
+Line Chart
+
+Sales trend over time
+
+Power BI file:
+
+pizza_sales_analysis.pbix
+
+### 📌 Key Insights
+
+Certain pizza categories generate more revenue than others
+
+Medium and Large size pizzas contribute the highest sales
+
+A few pizzas contribute a major portion of total revenue
+
+Sales show variation across different days
+
+### 📈 Business Value
+
+This analysis helps businesses to:
+
+Identify best-selling products
+
+Improve inventory planning
+
+Focus on high-revenue pizza categories
+
+Understand customer buying patterns
+
+### 🚀 What I Learned from This Project
+
+Writing SQL queries for real business questions
+
+Using SQL results in Power BI
+
+Designing a clean and meaningful dashboard
+
+Converting raw data into useful insights
 
 ### 📬 Contact
 
-    If you have feedback or suggestions, feel free to connect with me on LinkedIn.
+For feedback or suggestions, feel free to connect with me on LinkedIn.
